@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
-<h3 align="center">I graduated from Bandırma Onyedi Eylül University Computer Programming Department in July 2024 with an average of 3.65. In my long-term internship, I worked with the Django framework and gained experience in this field. I have past experience with PHP CodeIgniter and C# ASP.NET. I am currently learning more about the Python Django framework and want to work in this area.</h3>
+<h3 align="center">I graduated from Bandırma Onyedi Eylül University Computer Programming Department in July 2024 with an average of 3.64. In my long-term internship, I worked with the Django framework and gained experience in this field. I have past experience with PHP CodeIgniter and C# ASP.NET. I am currently learning more about the Python Django framework and want to work in this area.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadir-karakurt&label=Profile%20views&color=0e75b6&style=flat" alt="kadirkarakurt" /> </p>
 
